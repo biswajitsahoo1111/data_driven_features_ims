@@ -1,4 +1,4 @@
-[![Tensorflow 2.0](https://img.shields.io/badge/Tensorflow-2.0-success.svg)](https://shields.io/)
+![Tensorflow 2.0](https://img.shields.io/badge/Tensorflow-2.0-success.svg)
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 # data_driven_features_ims 
 
