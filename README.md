@@ -70,7 +70,7 @@ For other data-driven condition monitoring results, visit my [project page](http
 Cite the data source as
 ```
 BibTeX citation
-@misc{casewesternbearingdata,
+@misc{imsbearingdata,
   url = {https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#bearing},
   note = {This data come from National Aeronautics and Space Administration Website.}
 }
