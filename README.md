@@ -2,7 +2,7 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 # Multiclass bearing fault classification using features learned by a deep neural network
 
-This repository contains codes for a paper submitted to the [International Congress and Workshop on Industrial AI 2020 (IAI - 2020)](https://www.ltu.se/research/subjects/Drift-och-underhall/Konferenser/Industrial-AI-Conference-2020?l=en) that uses learned data-driven features for fault diagnosis. Instead of calculating features from data, features are learned from data by a deep neural network. These learned features are then used with SVM for fault classification. An empirical way to interpret the data-driven features is also suggested. The paper has been accepted and will appear in the proceedings. 
+This repository contains codes for a paper submitted to the [International Congress and Workshop on Industrial AI 2020 (IAI - 2020)](https://www.ltu.se/research/subjects/Drift-och-underhall/Konferenser/Industrial-AI-Conference-2020?l=en) that uses learned data-driven features for fault diagnosis. Instead of manually calculating features, features are learned from the data by a deep neural network. These learned features are then used with SVM for fault classification. An empirical way to interpret the data-driven features is also suggested. The paper has been accepted and will appear in the proceedings. 
 
 ## Data:
 
