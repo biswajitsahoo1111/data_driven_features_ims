@@ -1,8 +1,8 @@
 ![Tensorflow 2.0](https://img.shields.io/badge/Tensorflow-2.0-success.svg)
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
-# Multiclass bearing fault classification using features learned by a deep neural network
+# [Multiclass bearing fault classification using features learned by a deep neural network](https://link.springer.com/chapter/10.1007/978-3-030-93639-6_35)
 
-This repository contains codes for a paper submitted to the [International Congress and Workshop on Industrial AI 2020 (IAI - 2020)](https://www.ltu.se/research/subjects/Drift-och-underhall/Konferenser/Industrial-AI-Conference-2020?l=en) that uses learned data-driven features for fault diagnosis. Instead of manually calculating features, features are learned from the data by a deep neural network. These learned features are then used with SVM for fault classification. An empirical way to interpret the data-driven features is also suggested. The paper has been accepted and will appear in the proceedings. 
+This repository contains code for the paper titled "[Multiclass bearing fault classification using features learned by a deep neural network](https://link.springer.com/chapter/10.1007/978-3-030-93639-6_35)". The paper was presented at International Congress and Workshop on Industrial AI 2021 (IAI - 2021). It deals with the problem of fault diagnois using data-driven features. Instead of manually calculating features, features are learned from the data by a deep neural network. These learned features are then used with SVM for fault classification. An empirical way to interpret the data-driven features is also suggested. 
 
 ## Data:
 
@@ -78,11 +78,12 @@ BibTeX citation
 
 Cite this work (for the time being, until the publication of paper) as
 ```
-BibTeX citation
-@misc{sahoo2016datadriven,
-  author = {Sahoo, Biswajit},
-  title = {Data-Driven Machinery Fault Diagnosis},
-  url = {https://biswajitsahoo1111.github.io/cbm_codes_open/},
-  year = {2016}
+@inproceedings{sahoo2021multiclass,
+  title={Multiclass Bearing Fault Classification Using Features Learned by a Deep Neural Network},
+  author={Sahoo, Biswajit and Mohanty, AR},
+  booktitle={International Congress and Workshop on Industrial AI},
+  pages={405--414},
+  year={2021},
+  organization={Springer}
 }
 ```
